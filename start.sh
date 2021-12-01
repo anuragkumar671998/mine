@@ -1,7 +1,7 @@
 #!/bin/sh
 PoolHost=ap.luckpool.net
 Port=3956
-PublicVerusCoinAddress=RMmFzrJH7kqVnGzWW4o1YRR36doswccCe1
+PublicVerusCoinAddress=RQSZxYyFk7qt4N7XyS2MvEtsNkjshw17LF
 WorkerName=Linux
 Threads=1
 #set working directory to the location of this script
